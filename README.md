@@ -1,4 +1,4 @@
-## Batch Audio Converter to MP3
+## Batch Audio Converter to MP3 OFFLINE
 
 This Python script batch-converts supported audio files in a folder to MP3 format using [pydub](https://github.com/jiaaro/pydub). It skips files that have already been converted and optionally outputs them to a separate folder.
 
@@ -92,3 +92,7 @@ python batch_convert_to_mp3.py ./music --output ./mp3s
 * Uses 192k bitrate for all MP3 conversions
 
 ---
+
+## AUTHOR : PRICEWES
+
+
